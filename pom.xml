@@ -8,7 +8,11 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.organization>saladass419</sonar.organization>
+<<<<<<< HEAD
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+=======
+ 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+>>>>>>> 42e7034cb273440d1d1900ade4235d1bec9ce95a
 	</properties>
 
 	<dependencies>
